@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Todo List con React.js y el Hook useContext
+
+**Puedes encontrar el video en youtube de este proyecto [aquí](https://www.youtube.com/watch?v=9TV-ks_vNyE).**
+
+En este proyecto se pretende abordar el uso del Hook useContext con fines educativos aplicando este a un proyecto pequeño en React.js como lo es un Todo List.
+
+## Ejecuta el proyecto con npm ⬇
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
